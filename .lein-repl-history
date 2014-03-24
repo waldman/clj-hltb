@@ -1,4 +1,0 @@
-(fetch-url "http://example.com")
-(quit)
-CAT
-(quit)
